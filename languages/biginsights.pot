@@ -1,0 +1,114 @@
+# Copyright (C) 2015 Big Insights head
+# This file is distributed under the same license as the Big Insights head package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Big Insights 1.0.1\n"
+"Report-Any-Bugs-To: http://support.biginsights.io\n"
+"POT-Creation-Date: 2015-07-25 17:11:37+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: BENSON GICHERU <ben@biginsights.io>\n"
+"Language-Team: LANGUAGE <language@biginsights.io>\n"
+
+#: indexinsights.php:18
+msgid "Add to head"
+msgstr ""
+
+#: indexinsights.php:41
+msgid "Paste your code for Big Insights here"
+msgstr ""
+
+#: indexinsights.php:104
+msgid "Error reading config file %s! Is this file readable by the webserver?"
+msgstr ""
+
+#: indexinsights.php:118
+msgid "Big Insights"
+msgstr ""
+
+#: indexinsights.php:124
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: settings.php:15
+msgid "Insert HTML on every page"
+msgstr ""
+
+#: settings.php:16
+msgid ""
+"Paste your code from Big Insights here.It will be inserted into the &lt;head&gt; tag on "
+"every page."
+msgstr ""
+
+#: settings.php:24
+msgid "Error creating %s! Is the underlying folder writable?"
+msgstr ""
+
+#: settings.php:35
+msgid "Error reading HTML from file %s. Is this file readable?"
+msgstr ""
+
+#: settings.php:39
+msgid "HTML not updated"
+msgstr ""
+
+#: settings.php:44
+msgid "Succesfully edited %s!"
+msgstr ""
+
+#: settings.php:45
+msgid "Error writing HTML to %s. Is this file writable?"
+msgstr ""
+
+#: settings.php:116
+msgid "Manage which users can access the plugin"
+msgstr ""
+
+#: settings.php:120
+msgid "Succesfully updated user role support"
+msgstr ""
+
+#: settings.php:122
+msgid "User role support not updated"
+msgstr ""
+
+#: settings.php:135
+msgid "Manage post types that have the Big Insights box"
+msgstr ""
+
+#: settings.php:136
+msgid ""
+"Note: only post types which have their own page (like posts or pages, but "
+"not navigation menu items) are supported"
+msgstr ""
+
+#: settings.php:140
+msgid "Succesfully updated post type support"
+msgstr ""
+
+#: settings.php:142
+msgid "Post type support not updated"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Big Insights"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://biginsights.io/wordpress-plugin"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Allows you to add your Big Insights code to he &lt;head&gt; section for a specific page or all pages"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "	Big Insights"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://biginsights.io/
+msgstr ""
